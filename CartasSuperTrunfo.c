@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Davi
 int main() {
     // Variáveis das cartas
     char estado1, estado2;
